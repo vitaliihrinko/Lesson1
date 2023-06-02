@@ -1,0 +1,15 @@
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/bin/Debug/net6.0/SplitStrings
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/bin/Debug/net6.0/SplitStrings.deps.json
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/bin/Debug/net6.0/SplitStrings.runtimeconfig.json
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/bin/Debug/net6.0/SplitStrings.dll
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/bin/Debug/net6.0/SplitStrings.pdb
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.csproj.AssemblyReference.cache
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.AssemblyInfoInputs.cache
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.AssemblyInfo.cs
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.csproj.CoreCompileInputs.cache
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.dll
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/refint/SplitStrings.dll
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.pdb
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/SplitStrings.genruntimeconfig.cache
+/Users/vitaliihrinko/RiderProjects/SplitStrings/SplitStrings/obj/Debug/net6.0/ref/SplitStrings.dll
